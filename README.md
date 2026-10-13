@@ -286,13 +286,13 @@ All 13 automated tests execute in an isolated test environment and pass in under
 ## Screenshots
 
 ### 1. Lead Management Dashboard
-![LeadFlow Dashboard](docs/screenshots/dashboard.png)
+![LeadFlow Dashboard](docs/screenshots/leadflow_dashboard.png)
 
 ### 2. Add New Lead Modal Dialog
-![Add Lead Modal](docs/screenshots/add_lead_modal.png)
+![Add Lead Modal](docs/screenshots/leadflow_add_lead.png)
 
 ### 3. Lead Timeline and Discussion Log
-![Lead Timeline](docs/screenshots/lead_timeline_modal.png)
+![Lead Timeline](docs/screenshots/leadflow_timeline.png)
 
 ---
 
